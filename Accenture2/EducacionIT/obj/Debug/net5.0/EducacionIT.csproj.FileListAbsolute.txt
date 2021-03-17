@@ -1,0 +1,12 @@
+C:\Users\anto_\source\repos\Accenture2\EducacionIT\bin\Debug\net5.0\EducacionIT.deps.json
+C:\Users\anto_\source\repos\Accenture2\EducacionIT\bin\Debug\net5.0\EducacionIT.dll
+C:\Users\anto_\source\repos\Accenture2\EducacionIT\bin\Debug\net5.0\ref\EducacionIT.dll
+C:\Users\anto_\source\repos\Accenture2\EducacionIT\bin\Debug\net5.0\EducacionIT.pdb
+C:\Users\anto_\source\repos\Accenture2\EducacionIT\obj\Debug\net5.0\EducacionIT.csprojAssemblyReference.cache
+C:\Users\anto_\source\repos\Accenture2\EducacionIT\obj\Debug\net5.0\EducacionIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anto_\source\repos\Accenture2\EducacionIT\obj\Debug\net5.0\EducacionIT.AssemblyInfoInputs.cache
+C:\Users\anto_\source\repos\Accenture2\EducacionIT\obj\Debug\net5.0\EducacionIT.AssemblyInfo.cs
+C:\Users\anto_\source\repos\Accenture2\EducacionIT\obj\Debug\net5.0\EducacionIT.csproj.CoreCompileInputs.cache
+C:\Users\anto_\source\repos\Accenture2\EducacionIT\obj\Debug\net5.0\EducacionIT.dll
+C:\Users\anto_\source\repos\Accenture2\EducacionIT\obj\Debug\net5.0\ref\EducacionIT.dll
+C:\Users\anto_\source\repos\Accenture2\EducacionIT\obj\Debug\net5.0\EducacionIT.pdb

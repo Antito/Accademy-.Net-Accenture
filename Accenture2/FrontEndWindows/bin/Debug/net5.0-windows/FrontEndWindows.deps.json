@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FrontEndWindows/1.0.0": {
+        "dependencies": {
+          "EducacionIT": "1.0.0"
+        },
+        "runtime": {
+          "FrontEndWindows.dll": {}
+        }
+      },
+      "EducacionIT/1.0.0": {
+        "runtime": {
+          "EducacionIT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FrontEndWindows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EducacionIT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

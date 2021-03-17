@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Accenture2/1.0.0": {
+        "dependencies": {
+          "EducacionIT": "1.0.0"
+        },
+        "runtime": {
+          "Accenture2.dll": {}
+        }
+      },
+      "EducacionIT/1.0.0": {
+        "runtime": {
+          "EducacionIT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Accenture2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EducacionIT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
