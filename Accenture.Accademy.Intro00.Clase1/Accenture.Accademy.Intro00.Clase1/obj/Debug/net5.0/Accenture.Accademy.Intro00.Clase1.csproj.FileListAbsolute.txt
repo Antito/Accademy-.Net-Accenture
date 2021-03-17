@@ -1,0 +1,16 @@
+C:\Users\anto_\source\repos\Accenture.Accademy.Intro00.Clase1\Accenture.Accademy.Intro00.Clase1\bin\Debug\net5.0\Accenture.Accademy.Intro00.Clase1.exe
+C:\Users\anto_\source\repos\Accenture.Accademy.Intro00.Clase1\Accenture.Accademy.Intro00.Clase1\bin\Debug\net5.0\Accenture.Accademy.Intro00.Clase1.deps.json
+C:\Users\anto_\source\repos\Accenture.Accademy.Intro00.Clase1\Accenture.Accademy.Intro00.Clase1\bin\Debug\net5.0\Accenture.Accademy.Intro00.Clase1.runtimeconfig.json
+C:\Users\anto_\source\repos\Accenture.Accademy.Intro00.Clase1\Accenture.Accademy.Intro00.Clase1\bin\Debug\net5.0\Accenture.Accademy.Intro00.Clase1.runtimeconfig.dev.json
+C:\Users\anto_\source\repos\Accenture.Accademy.Intro00.Clase1\Accenture.Accademy.Intro00.Clase1\bin\Debug\net5.0\Accenture.Accademy.Intro00.Clase1.dll
+C:\Users\anto_\source\repos\Accenture.Accademy.Intro00.Clase1\Accenture.Accademy.Intro00.Clase1\bin\Debug\net5.0\ref\Accenture.Accademy.Intro00.Clase1.dll
+C:\Users\anto_\source\repos\Accenture.Accademy.Intro00.Clase1\Accenture.Accademy.Intro00.Clase1\bin\Debug\net5.0\Accenture.Accademy.Intro00.Clase1.pdb
+C:\Users\anto_\source\repos\Accenture.Accademy.Intro00.Clase1\Accenture.Accademy.Intro00.Clase1\obj\Debug\net5.0\Accenture.Accademy.Intro00.Clase1.csprojAssemblyReference.cache
+C:\Users\anto_\source\repos\Accenture.Accademy.Intro00.Clase1\Accenture.Accademy.Intro00.Clase1\obj\Debug\net5.0\Accenture.Accademy.Intro00.Clase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anto_\source\repos\Accenture.Accademy.Intro00.Clase1\Accenture.Accademy.Intro00.Clase1\obj\Debug\net5.0\Accenture.Accademy.Intro00.Clase1.AssemblyInfoInputs.cache
+C:\Users\anto_\source\repos\Accenture.Accademy.Intro00.Clase1\Accenture.Accademy.Intro00.Clase1\obj\Debug\net5.0\Accenture.Accademy.Intro00.Clase1.AssemblyInfo.cs
+C:\Users\anto_\source\repos\Accenture.Accademy.Intro00.Clase1\Accenture.Accademy.Intro00.Clase1\obj\Debug\net5.0\Accenture.Accademy.Intro00.Clase1.csproj.CoreCompileInputs.cache
+C:\Users\anto_\source\repos\Accenture.Accademy.Intro00.Clase1\Accenture.Accademy.Intro00.Clase1\obj\Debug\net5.0\Accenture.Accademy.Intro00.Clase1.dll
+C:\Users\anto_\source\repos\Accenture.Accademy.Intro00.Clase1\Accenture.Accademy.Intro00.Clase1\obj\Debug\net5.0\ref\Accenture.Accademy.Intro00.Clase1.dll
+C:\Users\anto_\source\repos\Accenture.Accademy.Intro00.Clase1\Accenture.Accademy.Intro00.Clase1\obj\Debug\net5.0\Accenture.Accademy.Intro00.Clase1.pdb
+C:\Users\anto_\source\repos\Accenture.Accademy.Intro00.Clase1\Accenture.Accademy.Intro00.Clase1\obj\Debug\net5.0\Accenture.Accademy.Intro00.Clase1.genruntimeconfig.cache
